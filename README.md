@@ -3,11 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmanbhuiyan" alt="rahmanbhuiyan" /></a> </p>
 
-- 🔭 I’m currently working on [Processor price prediction](https://drive.google.com/drive/folders/1kKEi5jK3akGq6G70-R2ZIFtqNqnZFjrn?usp=sharing)
 
-- 🌱 I’m currently learning **Machine Learning and Data Science**
+- 🌱 I’m currently learning **NLP and Computer vision **
 
-- 👯 I’m looking to collaborate on [Processor price prediction](https://drive.google.com/drive/folders/1kKEi5jK3akGq6G70-R2ZIFtqNqnZFjrn?usp=sharing)
+
 
 - 💬 Ask me about **Machine Learning**
 

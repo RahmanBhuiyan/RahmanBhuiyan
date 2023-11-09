@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **bhuiyanrahman2002@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/rahman-bhuiyan-741973211](www.linkedin.com/in/rahman-bhuiyan-741973211)
+- 📄 Know about my experiences [www.linkedin.com/in/rahman-bhuiyan-741973211](www.linkedin.com/in/abdullah-al-rahman)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
